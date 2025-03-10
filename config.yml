@@ -4,22 +4,10 @@
 theme: default
 
 # HTML Language setting
-lang: "en"
+lang: "fr"
 
 # Plugins, implemented in ./plugins/PLUGIN_NAME
 # Use {{ vars.PLUGIN_NAME }} in the settings below
-
-# The output of the plugin can be used below, e.g., {{vars.MediumFollowersCountPlugin}}
-plugins:
-  # Automatically fetch Medium follower count
-  - MediumFollowersCountPlugin:
-      username: zhgchgli
-  # Automatically fetch Github repo star count
-  - GithubRepoStarsCountPlugin:
-      - ZhgChgLi/ZMarkupParser
-      - ZhgChgLi/ZReviewTender
-      - ZhgChgLi/ZMediumToMarkdown
-      - ZhgChgLi/linkyee
 
 # Google Analytics tracking id
 google_analytics_id:
