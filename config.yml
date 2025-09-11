@@ -1,7 +1,7 @@
 # Site Configuration
 
 # Theme, mapped to the directory: ./theme/xxxx
-theme: default
+theme: "default"
 
 # HTML Language setting
 lang: "fr"
@@ -33,7 +33,7 @@ tagline: >-
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
-  - link:
+ - link:
       icon: "fa-brands fa-youtube"
       text: "CYPHER #1"
       url: "https://youtu.be/O5jxh5OAfIw"
@@ -68,14 +68,14 @@ links:
       alt: "KEK - curé-labelle dagenais freestyle"
       title: "KEK - curé-labelle dagenais freestyle"
       target: "_blank"
-  - link:
+ - link:
       icon: "fa-brands fa-youtube"
       text: "Le Chilling S'Pod - jaS"
       url: "https://www.youtube.com/watch?v=GlpaBKCkScw"
       alt: "Le Chilling S'Pod - jaS"
       title: "Le Chilling S'Pod - jaS"
       target: "_blank"
-  - link:
+ - link:
       icon: "fa-brands fa-youtube"
       text: "PELLICULE ARGENTIQUE FREESTYLE"
       url: "https://www.youtube.com/watch?v=Dcb5SiMD-gM"
