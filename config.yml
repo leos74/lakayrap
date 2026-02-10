@@ -40,20 +40,6 @@ links:
         alt: "CYPHER #1"
         title: "CYPHER #1"
         target: "_blank"
-- link:
-        icon: "fab fa-spotify"
-        text: "KAZE - RUPDUR"
-        url: "https://open.spotify.com/track/7tCFpe8aGGhv4IAbaEeFoC?si=aa609a889252422c"
-        alt: "KAZE - RUPDUR"
-        title: "KAZE - RUPDUR"
-        target: "_blank"
-- link:
-        icon: "(fa-brands fa-youtube)"
-        text: "Boucle Sans Fin - Tall Z"
-        url: "https://youtu.be/LEZBotFt8Z8?si=BEz5k_ufuAY1R2_8"
-        alt: "Boucle Sans Fin - Tall Z"
-        title: "Boucle Sans Fin - Tall Z"
-        target: "_blank"
  - link:
         icon: "(fa-brands fa-youtube)"
         text: "KEK - meow meow"
@@ -74,13 +60,6 @@ links:
       url: "https://www.youtube.com/watch?v=tlpU_AT8Vvk"
       alt: "KEK - curé-labelle dagenais freestyle"
       title: "KEK - curé-labelle dagenais freestyle"
-      target: "_blank"
- - link:
-      icon: "fa-brands fa-youtube"
-      text: "Le Chilling S'Pod - jaS"
-      url: "https://www.youtube.com/watch?v=GlpaBKCkScw"
-      alt: "Le Chilling S'Pod - jaS"
-      title: "Le Chilling S'Pod - jaS"
       target: "_blank"
  - link:
       icon: "fa-brands fa-youtube"
